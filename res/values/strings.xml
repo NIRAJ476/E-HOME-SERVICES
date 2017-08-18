@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">E-HomeServices</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_forgot_password">Forgot_password</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_painter">Painter</string>
+    <string name="title_activity_painting1">Painting1</string>
+    <string name="title_activity_electrical">Electrical</string>
+    <string name="title_activity_electrical1">Electrical1</string>
+    <string name="title_activity_electrical2">Electrical2</string>
+    <string name="title_activity_carpenter">Carpenter</string>
+    <string name="title_activity_carpenter1">Carpenter1</string>
+    <string name="title_activity_carpenter2">Carpenter2</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="SelectTypes">
+        <item>SelectCategory</item>
+        <item>Carpainter</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+        <item>Plumber</item>
+        
+    </string-array>
+
+    <string name="prompt">Select Provider Catagory</string>
+    <string name="title_activity_plumber">Plumber</string>
+    <string name="title_activity_plumber1">Plumber1</string>
+    <string name="title_activity_thanks">Thanks</string>
+
+</resources>
